@@ -26,6 +26,7 @@
 
                     <converters:HumanizedDurationConverter x:Key="HumanizedDurationConverter" />
                     <converters:MediaGlyphConverter x:Key="MediaGlyphConverter" />
+                    <converters:PlayPauseGlyphConverter x:Key="PlayPauseGlyphConverter" />
                     <toolkitConverters:BoolNegationConverter x:Key="BoolNegationConverter" />
                     <toolkitConverters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter" />
                     <toolkitConverters:BoolToObjectConverter
